@@ -47,7 +47,7 @@ In this step we will setup the origin for the repository. We'll do this by conne
     <summary> What just happened? </summary>
 
     <br />
-
+siemeeeee
     You've just told your computer that you want git to watch the `myProject` folder and to keep track of any changes. This also allows us to run git commands inside of the folder. (Warning:  Be very careful to make sure you're in the right directory when you run `git init`!)
 
     </details>
